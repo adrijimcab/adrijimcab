@@ -15,7 +15,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrijimcab&theme=tokyonight" alt="adrijimcab trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adrijimcab&theme=radical" alt="adrijimcab trophies" />
 </p>
 
 ---
