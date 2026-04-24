@@ -13,6 +13,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrijimcab&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Adrián's GitHub Stats" />
+</p>
+
+---
+
 ### 🛡️ Professional Profile
 **FrontEnd Architect / Technical Lead / Senior FrontEnd Developer** with over **9 years of experience**.
 
