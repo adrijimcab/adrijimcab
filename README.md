@@ -39,7 +39,7 @@ Leading the definition, design, and evolution of complex **frontend platforms** 
 
 ### 📊 Engineering Intelligence Dashboard
 <p align="center">
-  <img src="https://github.com/adrijimcab/adrijimcab/raw/main/github-metrics.svg" alt="Master Dashboard" width="100%">
+  <img src="https://github.com/adrijimcab/adrijimcab/raw/main/github-metrics.svg" alt="Master Dashboard">
 </p>
 
 ---
