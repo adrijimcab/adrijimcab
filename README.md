@@ -46,7 +46,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/adrijimcab/adrijimcab/raw/metrics/github-metrics.svg" alt="Activity Radar" width="100%">
+  <img src="https://raw.githubusercontent.com/adrijimcab/adrijimcab/metrics/github-metrics.svg" alt="Activity Radar" width="100%">
 </p>
 
 ---
