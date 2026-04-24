@@ -53,7 +53,6 @@ jobs:
           
           config_order: base.header, isocalendar, languages, activity, habits, followup, achievements
           config_padding: 0, 8 + 10%
-          config_timezone: Europe/Madrid
           
           filename: github-metrics.svg
           output_action: commit
